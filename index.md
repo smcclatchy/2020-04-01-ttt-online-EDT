@@ -219,7 +219,7 @@ for more information.
 
 <hr/>
 
-<!--
+
 
 <div class="row">
   <div class="col-md-6">
@@ -259,22 +259,7 @@ for more information.
   </div>
 </div>
 
--->
 
-<!--
-  ETHERPAD
-
-  At `_misc/etherpad.txt` you will find a template for the etherpad.
-
-  Display the Etherpad for the workshop.  You can set this up in
-  advance or on the first day; either way, make sure you push changes
-  to GitHub after you have its URL.  To create an Etherpad, go to
-
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
-
-  where 'YYYY-MM-DD-site' is the identifier for your workshop,
-  e.g., '2015-06-10-esu'.
--->
 {% if page.etherpad %}
 <hr/>
 
